@@ -1,6 +1,6 @@
 # Implementation_Deep_Learning_Paper
   - NLP
-    -Sequence To Sequence Learning With Neural Networks (Seq2Seq)
+    - Sequence To Sequence Learning With Neural Networks (Seq2Seq)
       - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Sequence_To_Sequence_Learning_With_Neural_Networks/Seq2Seq_Pytorch.ipynb)</b>
   - Generative Models
     - Variational Auto-Encoder(VAE)
