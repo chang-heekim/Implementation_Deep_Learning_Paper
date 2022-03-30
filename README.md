@@ -1,4 +1,7 @@
 # Implementation_Deep_Learning_Paper
+  - NLP
+    -Sequence To Sequence Learning With Neural Networks (Seq2Seq)
+      - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Auto-Encoding%20Variational%20Bayes/VAE_for_MNIST_Pytorch.ipynb)</b>
   - Generative Models
     - Variational Auto-Encoder(VAE)
       - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Auto-Encoding%20Variational%20Bayes/VAE_for_MNIST_Pytorch.ipynb)</b>
