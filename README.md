@@ -11,4 +11,4 @@
       -  <b>[Code written by Tensorflow](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Generative%20Adversarial%20Networks/GAN_for_MNIST_Tensorflow.ipynb)</b> 
   - Object Detection
     - YOLO(You Only Look Once)-V1
-      - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/YOLO(You%20Only%20Look%20Once)-V1/YOLO_V1_Pytorch.ipynb)
+      - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/YOLO(You%20Only%20Look%20Once)/YOLO_V1_Pytorch.ipynb)
