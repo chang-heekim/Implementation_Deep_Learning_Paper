@@ -9,8 +9,8 @@
     - Generative Adversarial Networks(GAN)
       - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Generative%20Adversarial%20Networks/GAN_for_MNIST_Pytorch.ipynb)</b> 
       - <b>[Code written by Tensorflow](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Generative%20Adversarial%20Networks/GAN_for_MNIST_Tensorflow.ipynb)</b>
-      - Deep Convolutional Generative Adversarial Nets (ICLR 2016)
-        - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Deep%20Convolutional%20Generative%20Adversarial%20Nets/DCGAN_Pytorch.ipynb)
+    - Deep Convolutional Generative Adversarial Nets (ICLR 2016)
+      - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/Deep%20Convolutional%20Generative%20Adversarial%20Nets/DCGAN_Pytorch.ipynb)
   - Object Detection
     - YOLO(You Only Look Once)-V1
       - <b>[Code written by Pytorch](https://github.com/chang-heekim/Implementation_Deep_Learning_Paper/blob/main/YOLO(You%20Only%20Look%20Once)/YOLO_V1_Pytorch.ipynb)
